@@ -1,0 +1,6 @@
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

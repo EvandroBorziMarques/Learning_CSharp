@@ -1,0 +1,7 @@
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\bin\Debug\1-Primeiro_Projeto.exe.config
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\bin\Debug\1-Primeiro_Projeto.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\bin\Debug\1-Primeiro_Projeto.pdb
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\obj\Debug\1-Primeiro_Projeto.csprojAssemblyReference.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\obj\Debug\1-Primeiro_Projeto.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\obj\Debug\1-Primeiro_Projeto.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\1-Primeiro_Projeto\obj\Debug\1-Primeiro_Projeto.pdb
