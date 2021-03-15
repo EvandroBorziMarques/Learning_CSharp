@@ -1,0 +1,7 @@
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\Users\marqu\Documents\GitHub\Learning_CSharp\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
